@@ -81,5 +81,7 @@ To see the fully functional application immediately:
 5. Open your browser to `http://localhost:8080`.
 *The application will automatically load sample products and an admin user.*
 
+---
+
 **Developed by:** Sirapu Sravya  
 **Submission for:** BusyBrains Intern Cum Full Time Role
